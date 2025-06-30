@@ -17,13 +17,7 @@ I'm a Computer and Communication Engineering student passionate about building m
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
----
 
-## 📈 GitHub Stats
-
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamMikhail&show_icons=true&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
